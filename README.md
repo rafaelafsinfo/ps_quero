@@ -76,6 +76,10 @@ Você é livre para utilizar as tecnologias e ferramentas que preferir. Recomend
 
 Descreva os passos necessários para rodar seu projeto localmente (exemplo: iniciar servidor, banco de dados, etc.).
 
+```
+  npm run dev
+```
+
 ---
 
 ## 🧑‍💻 Como Entregar
